@@ -1,2 +1,2 @@
 # mi-redireccionamiento-bot
-Mi redireccionamiento
+Redireccionamiento para mi Bot de Discord.
